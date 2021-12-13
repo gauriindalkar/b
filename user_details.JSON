@@ -1,34 +1,12 @@
 {
     "user": {
-        "username": "pihu",
-        "password": "pihu@123"
+        "username": "ggauri",
+        "password": "ggauri123!@#"
     },
     "profilo": {
-        "description": "asrdtfyghijopk",
-        "birth_date": "dtfyguhi",
-        "Hobbies": "tdfyug",
-        "Gender": "gfuukik"
-    }
-
-    "user": {
-        "username": "supriya",
-        "password": "supriya@123"
-    },
-    "profilo": {
-        "description": "i am a supriya",
-        "birth_date": "24 jun 2002",
-        "Hobbies": "vhjhejmnsd",
-        "Gender": "fvysdkf"
-    }
-}{
-    "user": {
-        "username": "asd",
-        "password": "1@asdf3"
-    },
-    "profilo": {
-        "description": "wsd",
-        "birth_date": "2",
-        "Hobbies": "fog",
+        "description": "coder",
+        "birth_date": "13-09-2002",
+        "Hobbies": "playing",
         "Gender": "female"
     }
 }
